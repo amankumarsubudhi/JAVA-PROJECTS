@@ -27,11 +27,11 @@ The Bank Management System is a Java-based application designed to handle basic 
 ### Steps
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/amankumarsubudhi/bankmanagementsystem.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
-   cd bank-management-system
+   cd bankmanagementsystem
    ```
 3. **Open the Project in Your IDE** or Compile Using Command Line:
    - **In IDE**: Import the project as a Java project.
